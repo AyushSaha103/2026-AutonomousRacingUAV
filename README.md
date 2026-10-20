@@ -1,14 +1,14 @@
 # Autonomous Racing UAV
 A novel autonomy algorithm enabling aerial systems to **learn, adapt, and maintain control under adverse conditions.**
 
-### 🚁 Autonomy at my fingertips.
+### 🚁 Autonomy at our fingertips.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc75bdca-0c71-4c05-aa64-6bab1feeee66" />
 
 **Status:** Successful autonomous UAV control achieved in indoor racing environments. Adverse-environment adaptability testing in progress.
 
 ### Recruiters & Technical Interviewers
 
-Interested in this project? **I'd be happy to walk you through it.**
+Interested in our project? **I'd be happy to walk you through it.**
 
 While the source code is private, I can provide a **live demo and technical walkthrough during an interview.**
 
